@@ -13,7 +13,7 @@
 
 #### 1. [Universitas Sebelas Maret](https://www.uns.ac.id) | Informatic Engineering | Surakarta `2020-now`
 
--
+- 
 
 #### 2. [SMK N 5 SUKOHARJO](https://smkn5sukoharjo.sch.id/) | TKJ | Sukoharjo `2017-2020`
 
@@ -25,6 +25,8 @@
 #### 1. BackEnd, Testing Documentation Project "Perputakaan-daerah" (3nd Semester) 2021
 
 #### 2. Backend, Devops project "Survey Kepuasan Masyarakat Kabupaten Wonogiri" (4nd Semester) 2021
+
+#### 3. Frontend, Documentation project "Sinauin" (2nd Semester) 2021
 
 ### Languages and Tools:
 
